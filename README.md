@@ -18,7 +18,7 @@ Now the environment is set up you can just run jupyter from the `merge_tiff` fol
 
 ```
 cd /path/on/your/pc/to/merge_tiff 
-jupyter
+jupyter notebook
 ```
 
 ### If already 'installed'
@@ -28,7 +28,7 @@ Just run:
 ```
 conda activate merge_tiff
 cd /path/on/your/pc/to/merge_tiff
-jupyter
+jupyter notebook
 ```
 
 And then follow instructions in the notebook `merge_tiff.npynb`
